@@ -1,4 +1,0 @@
-This is my first file. The file of the project!
-This file comes before the others.
-Git is tracking my changes
-
